@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishant127376&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Ishant127376&theme=tokyonight" height="180" />
+
 </div>
 
 ---
