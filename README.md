@@ -57,21 +57,7 @@
 
 <br/><br/>
 
----
 
-<h2 align="center">🎧 My Music</h2>
-<br/>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif" height="280" />
-  <br/><br/>
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5" />
-  </a>
-</div>
-
-> *Debugging hits different with music on.*
-
----
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <br/>
