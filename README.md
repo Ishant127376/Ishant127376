@@ -1,39 +1,87 @@
-# Hi, I’m Ishant 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=Ishant127376&label=Profile%20views&color=0e75b6&style=flat" alt="Ishant127376" />
 
-💻 Computer Science undergraduate passionate about building **secure, real-world systems**  
-🔐 Full-stack (MERN) | 🤖 Applied Machine Learning | 🧠 Problem Solving  
-📍 Thapar Institute of Engineering & Technology
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishant+Singh!;" />
+</h1>
 
----
+<h3 align="center">Building secure systems, one bug at a time.</h3>
 
-### 🚀 About Me
-- I enjoy building software where **correctness, security, and reliability** matter.
-- I’ve worked on **full-stack applications** with JWT-based authentication and **applied ML projects** focused on real-world impact.
-- I like thinking through **edge cases**, system behavior, and writing code that others can confidently build on.
-- Strong believer in *learning by building, breaking, and rebuilding*.
+<br/>
 
-> **“I overthink systems so users don’t have to.”**
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sb3VqbXZxZjhhN2U4cXdlamw5dGxyc3JqcDBwdGdzbThvbXJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" width="400" />
+</div>
 
----
+<br/>
 
-### 🛠 Tech Stack
-- **Languages:** Python, JavaScript, C/C++, SQL  
-- **Web:** React.js, Express.js, Node.js, MongoDB  
-- **ML/Data:** scikit-learn, Pandas, NumPy, Streamlit, Plotly  
-- **Tools:** Git, GitHub, Docker, VS Code
+<p align="center"><i>I overthink systems so users don’t have to.</i></p>
 
 ---
 
-### 📌 What I’m Currently Focused On
-- Building **secure, scalable full-stack applications**
-- Strengthening **backend & authentication systems**
-- Improving **DSA and problem-solving depth**
-- Writing cleaner, more maintainable code
+## 🚀 About Me
+<div align="center">
+
+🔭 Currently building **secure full-stack (MERN) applications**
+
+🌱 Strengthening **DSA, backend systems & applied machine learning**
+
+🎓 Computer Science undergraduate at **Thapar Institute of Engineering & Technology**
+
+📫 Reach me at **ishantsingh2321@gmail.com**
+
+</div>
 
 ---
 
-### 🌱 Always Learning
-Open to feedback, collaboration, and opportunities where I can grow as an engineer while building things that matter.
+## 🌐 Connect With Me
+<div align="center"> 
+  <a href="mailto:ishantsingh2321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ishantsinghh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ishant127376" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-📫 Reach me at: **ishantsingh2321@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/ishantsinghh)
+---
+
+<h2 align="center">🛠 Languages & Tools</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,html,css,docker,git,github" />
+</div>
+
+<br/><br/>
+
+---
+
+<h2 align="center">🎧 My Music</h2>
+<br/>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif" height="280" />
+  <br/><br/>
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5" />
+  </a>
+</div>
+
+> *Debugging hits different with music on.*
+
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishant127376&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Ishant127376&theme=tokyonight" height="180" />
+</div>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by ✨</b><br/>
+  <i>Low ego, high uptime.</i>
+</p>
