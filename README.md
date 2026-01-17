@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Ishant127376&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishant127376)](https://github.com/Ishant127376/github-readme-stats)" height="180" />
 </div>
 
 ---
