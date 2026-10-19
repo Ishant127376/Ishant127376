@@ -1,78 +1,120 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Ishant127376&label=Profile%20views&color=0e75b6&style=flat" alt="Ishant127376" />
+# Hi, I'm Ishant Singh 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishant+Singh!;" />
-</h1>
-
-<h3 align="center">Building secure systems, one bug at a time.</h3>
-
-<br/>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrdjlvMzU1YTZtMnJkeGNjc2twYjlndXdpb2Z0bng3MnR6Z3NzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dgWtLi9PEXrlhxdn9L/giphy.gif" width="400" />
-</p>
-
-
-<br/>
-
-<p align="center"><i>I overthink systems so users don’t have to.</i></p>
-
----
-
-## 🚀 About Me
 <div align="center">
 
-🔭 Currently building **secure full-stack (MERN) applications**
+### Software Engineer | Full-Stack Development | Backend Engineering
 
-🌱 Strengthening **DSA, backend systems & applied machine learning**
+B.Tech Computer Science & Engineering @ Thapar Institute of Engineering & Technology
 
-🎓 Computer Science undergraduate at **Thapar Institute of Engineering & Technology**
+<img src="https://komarev.com/ghpvc/?username=Ishant127376&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-📫 Reach me at **ishantsingh2321@gmail.com**
-
-</div>
-
----
-
-## 🌐 Connect With Me
-<div align="center"> 
-  <a href="mailto:ishantsingh2321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ishantsinghh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ishant127376" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-<h2 align="center">🛠 Languages & Tools</h2>
 <br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,html,css,docker,git,github" />
-</div>
 
-<br/><br/>
-
-
-
-<h2 align="center">📊 My GitHub Stats</h2>
-<br/>
-<div align="center">
-
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=Ishant127376"
-  height="180"
-/>
+<a href="https://github.com/Ishant127376">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/Ishant127376/Stayly">
+  <img src="https://img.shields.io/badge/Featured_Project-Stayly-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Stayly" />
+</a>
 
 </div>
 
 ---
 
-<p align="center">
-  <b>Thanks for stopping by ✨</b><br/>
-  <i>Low ego, high uptime.</i>
-</p>
+## About Me
+
+- 🎓 **B.Tech in Computer Science & Engineering** at Thapar Institute of Engineering & Technology (2023–2027).
+- 💻 Worked on backend engineering and API integrations at **Omkar Energy Solutions**.
+- ⚙️ Interested in backend systems, REST APIs, authentication, databases, and real-time data pipelines.
+- 🌐 Building full-stack applications using React, Next.js, TypeScript, Node.js, and FastAPI.
+- 🤖 Exploring AI-powered applications, LLM integrations, and machine learning.
+- 🧩 Enjoy solving Data Structures & Algorithms problems and understanding software architecture.
+
+---
+
+## Experience
+
+### Software Engineering Intern — Omkar Energy Solutions
+
+- **Apple MFi Software Authentication:** Worked on a Node.js backend integrating Apple MFi authentication APIs, including certificate signing request handling and authentication workflows.
+- **OJAS IoT Platform:** Worked on backend services and MQTT-based telemetry integration for an energy monitoring and device management platform.
+- **Real-Time Data Pipeline:** Worked with Node.js, Express, MongoDB, MQTT, and a React frontend to support device telemetry and monitoring workflows.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&perline=8" alt="Languages" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&perline=8" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,sqlite&perline=8" alt="Backend and Databases" />
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch&perline=8" alt="AI and Machine Learning" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,vscode&perline=8" alt="Tools and Platforms" />
+
+---
+
+## Featured Projects
+
+### [Stayly — Full-Stack Stay Booking Platform](https://github.com/Ishant127376/Stayly)
+
+An Airbnb-inspired accommodation booking application with listing management, booking workflows, authentication, and a host dashboard.
+
+**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `SQLAlchemy` `SQLite`
+
+### OJAS — IoT Energy Monitoring Platform
+
+An IoT monitoring and device management platform integrating backend APIs, MQTT-based telemetry, and a dashboard for real-time device data.
+
+**Tech Stack:** `Node.js` `Express` `React` `MongoDB` `MQTT` `EMQX`
+
+### Apple MFi Authentication Backend
+
+A Node.js backend integration project focused on Apple MFi software authentication workflows, certificate handling, and API integration.
+
+**Tech Stack:** `Node.js` `REST APIs` `Cryptography`
+
+### [CareSentry AI](https://github.com/prathamhanda/CareSentryAi)
+
+An AI-assisted healthcare application exploring prescription understanding, medication reminders, and symptom guidance.
+
+**Tech Stack:** `JavaScript` `AI/ML`
+
+### Breast Cancer Predictor
+
+A machine learning application that classifies breast cancer cases using a Support Vector Machine model, with an interactive Streamlit interface.
+
+**Tech Stack:** `Python` `Scikit-learn` `SVM` `Streamlit`
+
+---
+
+## What I'm Working On
+
+- Strengthening my understanding of backend architecture and API design.
+- Learning how authentication, database relationships, and booking lifecycles work in full-stack applications.
+- Exploring distributed systems, AI integrations, and reliable data processing.
+- Improving my problem-solving skills through DSA practice.
+
+---
+
+## Let's Connect! 🤝
+
+I'm interested in software engineering opportunities, backend development, full-stack applications, and building practical software systems.
+
+<a href="https://github.com/Ishant127376">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
