@@ -1,120 +1,95 @@
-# Hi, I'm Ishant Singh 👋
 
 <div align="center">
 
-### Software Engineer | Full-Stack Development | Backend Engineering
+<img src="assets/ishant-banner.png" width="100%" alt="Developer Portfolio Banner"/>
 
-B.Tech Computer Science & Engineering @ Thapar Institute of Engineering & Technology
+# Hey, I'm Ishant Singh 👋
 
-<img src="https://komarev.com/ghpvc/?username=Ishant127376&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### Software Engineer in the Making · CSE @ TIET
 
-<br/>
+Building web applications, backend systems, and practical software solutions.
 
-<a href="https://github.com/Ishant127376">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/Ishant127376/Stayly">
-  <img src="https://img.shields.io/badge/Featured_Project-Stayly-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Stayly" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 </div>
 
 ---
 
-## About Me
+## SELECTED WORK
 
-- 🎓 **B.Tech in Computer Science & Engineering** at Thapar Institute of Engineering & Technology (2023–2027).
-- 💻 Worked on backend engineering and API integrations at **Omkar Energy Solutions**.
-- ⚙️ Interested in backend systems, REST APIs, authentication, databases, and real-time data pipelines.
-- 🌐 Building full-stack applications using React, Next.js, TypeScript, Node.js, and FastAPI.
-- 🤖 Exploring AI-powered applications, LLM integrations, and machine learning.
-- 🧩 Enjoy solving Data Structures & Algorithms problems and understanding software architecture.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## Experience
-
-### Software Engineering Intern — Omkar Energy Solutions
-
-- **Apple MFi Software Authentication:** Worked on a Node.js backend integrating Apple MFi authentication APIs, including certificate signing request handling and authentication workflows.
-- **OJAS IoT Platform:** Worked on backend services and MQTT-based telemetry integration for an energy monitoring and device management platform.
-- **Real-Time Data Pipeline:** Worked with Node.js, Express, MongoDB, MQTT, and a React frontend to support device telemetry and monitoring workflows.
-
----
-
-## Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&perline=8" alt="Languages" />
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&perline=8" alt="Frontend" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,sqlite&perline=8" alt="Backend and Databases" />
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch&perline=8" alt="AI and Machine Learning" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,vscode&perline=8" alt="Tools and Platforms" />
-
----
-
-## Featured Projects
-
-### [Stayly — Full-Stack Stay Booking Platform](https://github.com/Ishant127376/Stayly)
-
-An Airbnb-inspired accommodation booking application with listing management, booking workflows, authentication, and a host dashboard.
-
-**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `SQLAlchemy` `SQLite`
-
-### OJAS — IoT Energy Monitoring Platform
-
-An IoT monitoring and device management platform integrating backend APIs, MQTT-based telemetry, and a dashboard for real-time device data.
-
-**Tech Stack:** `Node.js` `Express` `React` `MongoDB` `MQTT` `EMQX`
-
-### Apple MFi Authentication Backend
-
-A Node.js backend integration project focused on Apple MFi software authentication workflows, certificate handling, and API integration.
-
-**Tech Stack:** `Node.js` `REST APIs` `Cryptography`
-
-### [CareSentry AI](https://github.com/prathamhanda/CareSentryAi)
-
-An AI-assisted healthcare application exploring prescription understanding, medication reminders, and symptom guidance.
-
-**Tech Stack:** `JavaScript` `AI/ML`
-
-### Breast Cancer Predictor
-
-A machine learning application that classifies breast cancer cases using a Support Vector Machine model, with an interactive Streamlit interface.
-
-**Tech Stack:** `Python` `Scikit-learn` `SVM` `Streamlit`
-
----
-
-## What I'm Working On
-
-- Strengthening my understanding of backend architecture and API design.
-- Learning how authentication, database relationships, and booking lifecycles work in full-stack applications.
-- Exploring distributed systems, AI integrations, and reliable data processing.
-- Improving my problem-solving skills through DSA practice.
-
----
-
-## Let's Connect! 🤝
-
-I'm interested in software engineering opportunities, backend development, full-stack applications, and building practical software systems.
-
-<a href="https://github.com/Ishant127376">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="">
+<img src="assets/stayly-demo.png" width="100%" alt="Stayly project preview"/>
 </a>
+
+### 🏡 Stayly
+
+A full-stack accommodation booking application inspired by Airbnb.
+
+- Listing discovery and property details
+- Booking lifecycle and trip management
+- Host dashboard and listing management
+
+**Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `SQLite` `SQLAlchemy`
+
+[↗ View Repository]() · [▶ Watch Demo]()
+
+</td>
+<td width="50%" valign="top">
+
+<a href="">
+<img src="assets/ojas-demo.png" width="100%" alt="OJAS project preview"/>
+</a>
+
+### ⚡ OJAS — Energy Monitoring
+
+An IoT energy-monitoring platform for device management and live telemetry.
+
+- MQTT-based telemetry pipeline
+- Backend integration with MongoDB
+- Python DLMS bridge with simulation support
+
+**Stack**
+
+`Node.js` `Express` `React` `MongoDB` `MQTT` `Python`
+
+[↗ View Repository]() · [▶ Watch Demo]()
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgres,sqlite,git,github,docker&perline=8" alt="Technology stack"/>
+
+</div>
+
+---
+
+## EXPERIENCE
+
+**Software Engineering Intern — Omkar Energy Solutions**
+
+Working on backend development and software integrations, including Apple MFi software authentication and energy-monitoring systems.
+
+---
+
+<div align="center">
+
+### Always building. Always learning.
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="Profile views"/>
 
 </div>
