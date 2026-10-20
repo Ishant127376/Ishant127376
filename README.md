@@ -11,7 +11,7 @@ Building web applications, backend systems, and practical software solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishant127376)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishantsinghh/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ishantsingh2321@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishantsingh2321@gmail.com)
 
 </div>
 
@@ -39,7 +39,7 @@ A full-stack accommodation booking application inspired by Airbnb.
 
 `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `SQLite` `SQLAlchemy`
 
-[↗ View Repository]() · [▶ Watch Demo]()
+[↗ View Repository](https://github.com/Ishant127376/Stayly) · [▶ Watch Demo](https://www.loom.com/share/3a9e2124cc4446bda3b305770a06b1ba)
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@ An IoT energy-monitoring platform for device management and live telemetry.
 
 `Node.js` `Express` `React` `MongoDB` `MQTT` `Python`
 
-[↗ View Repository]() · [▶ Watch Demo]()
+[↗ View Repository](https://github.com/Ishant127376/ojas) · [▶ Watch Demo](https://www.loom.com/share/66771e52e1a94eaa9e1093dd81848a86)
 
 </td>
 </tr>
