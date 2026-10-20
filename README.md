@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/ishant-banner.png" width="100%" alt="Developer Portfolio Banner"/>
+<img src="ishant-banner.png" width="100%" alt="Developer Portfolio Banner"/>
 
 # Hey, I'm Ishant Singh 👋
 
@@ -24,7 +24,7 @@ Building web applications, backend systems, and practical software solutions.
 <td width="50%" valign="top">
 
 <a href="">
-<img src="assets/stayly-demo.png" width="100%" alt="Stayly project preview"/>
+<img src="stayly-demo.png" width="100%" alt="Stayly project preview"/>
 </a>
 
 ### 🏡 Stayly
@@ -45,7 +45,7 @@ A full-stack accommodation booking application inspired by Airbnb.
 <td width="50%" valign="top">
 
 <a href="">
-<img src="assets/ojas-demo.png" width="100%" alt="OJAS project preview"/>
+<img src="ojas-demo.png" width="100%" alt="OJAS project preview"/>
 </a>
 
 ### ⚡ OJAS — Energy Monitoring
